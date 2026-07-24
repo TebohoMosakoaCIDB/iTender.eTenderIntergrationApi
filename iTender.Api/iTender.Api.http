@@ -1,0 +1,6 @@
+@iTender.Api_HostAddress = http://localhost:5145
+
+GET {{iTender.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

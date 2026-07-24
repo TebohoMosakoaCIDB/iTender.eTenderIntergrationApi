@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="iTender.Api/iTender.Api.csproj" />
+  <Project Path="iTender.Application/iTender.Application.csproj" />
+  <Project Path="iTender.Domain/iTender.Domain.csproj" />
+  <Project Path="iTender.Infrastructure/iTender.Infrastructure.csproj" />
+  <Project Path="iTender.WorkerService/iTender.WorkerService.csproj" Id="e26ed32c-e40e-41b8-8463-268fc98bf45d" />
+</Solution>
